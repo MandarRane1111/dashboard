@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "id": "300",
+      "name": "Mandar",
+      "email": "ranemandar@gmail.com",
+      "age": "20",
+      "course": "JFSD",
+      "password": "mandar@1111"
+    }
+  ]
+}
