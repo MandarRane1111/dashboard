@@ -21,7 +21,7 @@ function Dashboard() {
                     </button>
 
                     <div className="collapse navbar-collapse" id="navbar">
-                        <ul className="navbar-nav mx-auto">
+                        <ul className="navbar-nav mx-auto"> 
                             <li className="nav-item">
                                 <Link className="nav-link active" to="/">Home</Link>
                             </li>
